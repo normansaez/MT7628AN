@@ -1,6 +1,7 @@
 # MT7628AN
 Mediatek MT7628AN evaluation board
 
+```
 Backing up mtd0 (u-boot)
 384+0 records in
 384+0 records out
@@ -27,3 +28,4 @@ Compressing backup files to "mtd_backup.tgz"
 Closing master SSH connection
 Stop listening request sent.
 Removing temporary backup files
+```
